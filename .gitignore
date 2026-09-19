@@ -1,0 +1,10 @@
+# 产品资料：WHEELTEC R680 底盘资料（约 1.5 GB，含视频/安装包等大二进制文件）
+# 体积过大，不适合纳入 Git 版本控制，仅保留在本地
+productsource/2.WHEELTEC R680 ROS大型科研机器人系列底盘资料/
+
+# 常见临时/同步文件
+*.tmp
+*.crdownload
+*.baiduyun.p.downloading
+Thumbs.db
+desktop.ini
